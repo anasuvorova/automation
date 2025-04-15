@@ -23,7 +23,7 @@ fetch(`https://randomuser.me/api/ `)
 Стадии жизни любого компонента
 - старт жизни (init или mount)
 - жизнь (убавляй клики, прибавяй, показывай скрывай и тд) (update или rerender)
-- смерть (destroy или onmount)
+- завершение (destroy или onmount)
 
 */
 
